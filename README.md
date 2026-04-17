@@ -1,11 +1,7 @@
 # oh-my-awesome-tradex
 tradeX个人自用的Github优质资源汇总
 
-
-
 ![logo](./asset/logo.png)
-
-
 
 # 4月7日Github一周排行TOP20
 
@@ -79,4 +75,4 @@ Url:https://github.com/sindresorhus/awesome
 
 
 
-## 
+##
